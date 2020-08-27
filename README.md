@@ -1,3 +1,5 @@
+![Work in Progress](https://media.giphy.com/media/H6bJ3gKixWjFHYscvY/giphy.gif)
+
 # SugarBeam
 SugarBeam is a hard- and software project to enhance the sleep of type-1 diabetics by providing them an easy and non-disturbing interface to check their relevant Nightscout data when they wake up - without checking their phone or moving a muscle.
 
